@@ -21,7 +21,7 @@
     <table border="1">
         <thead>
             <tr>
-                <th>No</th>
+                <th>#</th>
                 <th>Nama</th>
                 <th>Alamat</th>
                 <th>Jenis Kelamin</th>

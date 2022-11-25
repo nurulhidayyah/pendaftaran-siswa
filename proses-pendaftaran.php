@@ -2,7 +2,7 @@
 
 include("config.php");
 
-// cek apakah tombol daftar sudah diklik atau blum?
+// cek apakah tombol daftar sudah diklik atau belum?
 if (isset($_POST['daftar'])) {
 
     // ambil data dari formulir

@@ -21,3 +21,5 @@ if( isset($_GET['id']) ){
 } else {
     die("akses dilarang...");
 }
+
+?>
